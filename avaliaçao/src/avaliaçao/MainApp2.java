@@ -24,7 +24,7 @@ public class MainApp2 {
 			 System.out.println("\npesquisar atraves do codigo");
 			 System.out.println("\n digite o codigo do produto de 0 a 4 ");
 			 int a = s.nextInt();
-			System.out.println(" o nome do produt   o e "+i[a]+":");
+			System.out.println(" o nome do produto e "+i[a]+":");
 					
 			break;
 		case 2:
